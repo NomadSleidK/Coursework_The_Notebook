@@ -1,0 +1,12 @@
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\obj\Debug\CourseProject.Forms.NotebookMenu.resources
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\obj\Debug\CourseProject.Forms.EditEntry.resources
+C:\Users\Nomad\Documents\LabProjects\CourseProject\CourseProject\obj\Debug\CourseProject.Forms.NewEntry.resources
